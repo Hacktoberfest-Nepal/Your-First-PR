@@ -22,8 +22,7 @@ This is a beginner-friendly repository made specifically for Hacktoberfest that 
 
 - Fork this repo 🍴
 - Add your name, GitHub profile link and technology you work on, on [CONTRIBUTORS.md](./CONTRIBUTORS.md) 🙋‍♀️ 🙋‍♂️ <br>
-- Make sure, your info should be alphabetical list.
-- [example.png](./assets/example.png)
+- Make sure, your info should be alphabetical list. Here is the [sample](./assets/example.png).
 - Click on `New Pull Request`
 - Provide a title and description
 - Click `Create Pull Request`
@@ -32,9 +31,8 @@ This is a beginner-friendly repository made specifically for Hacktoberfest that 
 
 ## Important Links to work for Hacktoberfest
 
-- [24PullRequest](https://24pullrequests.com/projects)
-- [CodeTriage](https://www.codetriage.com/)
-- [Pull Request Roulette](http://www.pullrequestroulette.com)
+- [Hacktoberfest_CTF](https://github.com/Hacktoberfest-Nepal/Hacktoberfest_CTF)
+- [Your-First-PR](https://github.com/Hacktoberfest-Nepal/Your-First-PR)
 
 ## Code of Conduct
 
