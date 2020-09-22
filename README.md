@@ -23,7 +23,7 @@ This is a beginner-friendly repository made specifically for Hacktoberfest that 
 - Fork this repo 🍴
 - Add your name, GitHub profile link and technology you work on, on [CONTRIBUTORS.md](./CONTRIBUTORS.md) 🙋‍♀️ 🙋‍♂️ <br>
 - Make sure, your info should be alphabetical list.
-<!-- ![example.png](./assets/example.png)-->
+- [example.png](./assets/example.png)
 - Click on `New Pull Request`
 - Provide a title and description
 - Click `Create Pull Request`
