@@ -8,7 +8,7 @@
     The goal of this project is to get started in Opensource and merge your first Pull Request.
 </p>
 
-This is a beginner friednly repository made specifically for Hacktoberfest that helps you get your first PR and takes you a step closer to earning your Hacktoberfest T-shirt 👕.
+This is a beginner-friendly repository made specifically for Hacktoberfest that helps you get your first PR and takes you a step closer to earning your Hacktoberfest T-shirt 👕.
 
 🎯 In case you are an intermediate or advanced level programmer or developer, we have got you covered too!! Step to our <a href="https://github.com/Hacktoberfest-Nepal" target="blank"> repositories</a> and make contributions as per as your interests.
 
