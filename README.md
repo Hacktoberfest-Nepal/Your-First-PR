@@ -38,7 +38,7 @@ This is a beginner friednly repository made specifically for Hacktoberfest that 
 
 ## Code of Conduct
 
-> Usage of foul language, addition of irrelevant links to `Resources.md` will lead to PR being tagged as spam`
+> Usage of foul language, addition of irrelevant links to `CONTRIBUTORS.md` will lead to PR being tagged as spam`
 
 ## Check your Hacktoberfest Contribution status at:
 
