@@ -1,0 +1,232 @@
+* {
+    scroll-behavior: smooth;
+  }
+  
+  nav {
+    background-color: rgba(0, 0, 0, 0.678);
+    display: inline-block;
+    height: 4rem;
+  }
+  
+  .nav-align {
+    margin-left: auto;
+    margin-right: 15rem;
+  }
+  
+  .brand {
+    margin-left: 13rem; 
+  }
+  
+  ul li {
+    margin: 0.3rem;
+    padding: 5px;
+  }
+  
+  ul li a:after, a.active:after {
+      content:'';
+      position: absolute;
+      width: 100%;
+      height: 3px;
+      bottom: 0;
+      left: 0;
+      background-color: white;
+      transform: scaleX(0);
+      transform-origin: bottom right;
+      transition: transform 0.3s;
+  }
+  ul li a:hover:after{
+      transform-origin: bottom left;
+                  transform: scaleX(1);
+                 
+             }
+  
+  
+  ul li a{
+    text-decoration: none;
+    font-size: 1rem;
+    margin-top: 0.5rem;
+    letter-spacing: 2px;
+    font-weight: bold;
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    padding: 15px ;
+  }
+  ul li a:hover{
+      color: white;
+  }
+  .pic {
+    width: 100%;
+    height: 35rem;
+    background-image: linear-gradient(45deg, #422ac9, #2449ad, #3077d4, #126392, #047269, #17968b, #54cdd1, #71f993, #20912a);
+    background-size: 400%;
+    -webkit-animation: bg-animation 30s infinite alternate;
+    animation: bg-animation 30s infinite alternate;
+  }
+  
+  @-webkit-keyframes bg-animation {
+    0% {
+      background-position: left;
+    }
+    100% {
+      background-position: right;
+    }
+  }
+  
+  @keyframes bg-animation {
+    0% {
+      background-position: left;
+    }
+    100% {
+      background-position: right;
+    }
+  }
+  
+  .main_head {
+    font-size: 5rem;
+    margin-top: 14rem;
+    font-family: 'Lato', sans-serif;
+    text-decoration: none;
+  }
+  
+  .typewrite {
+    color: white;
+  }
+  
+  .btn {
+    border-radius: 20px;
+    width: 15rem;
+    letter-spacing: 2px;
+  }
+  
+  h1 {
+    margin-top: 2rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    font-size: 3rem;
+  }
+  
+  .about_head {
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+  }
+  
+  .card{
+    height: 24rem;
+    border-radius: 15px;
+  }
+  
+  .card-img-top{
+    border-radius: 0px 0px 15px 15px;
+    max-height: 14rem;
+    min-height: 9rem;
+  }
+  
+  .navbar-toggler-icon{
+    color: white;
+  }
+  
+  .about_content {
+    margin-top: 3rem;
+    font-size: 1.7rem;
+    color: black;
+  }
+  
+  .logo {
+    margin-top: 7rem;
+  }
+  
+  .end-features{
+    margin-top: 3rem;
+  }
+  
+  .contact_head {
+    font-size: 40px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+  }
+  
+  .icon {
+    color: white;
+  }
+  
+  .contact_text {
+    color: white;
+  }
+  
+  .contact {
+    margin-top: 7rem;
+    background-color: #dc3545;
+  }
+  
+  footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .to-top {
+    background: linear-gradient(45deg, #3921c5, #2159ac, #239bc0);
+    background-size: 100%;
+    position: fixed;
+    bottom: 16px;
+    right:32px;
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size:32px;
+    color:black;
+    text-decoration: none;
+    opacity:0;
+    pointer-events: none;
+    transition: all .4s;
+  }
+  
+  .to-top:hover{
+    color: white;
+  }
+  
+  .to-top.active {
+    bottom:32px;
+    pointer-events: auto;
+    opacity:1;
+    text-decoration: none;
+  }
+  
+  @media(max-width: 576px){
+    .brand{
+      margin-left: 0px;
+    }
+  
+    nav{
+      height: fit-content;
+    }
+  
+    .nav-align{
+      margin-left: 0px;
+    }
+  
+    .main_head{
+      font-size: 3rem;
+    }
+  
+    .card{
+      margin-top: 3rem;
+    }
+  
+    .end-features{
+      margin-top: 0rem;
+    }
+  }
+  
+  @media(max-width: 400px){
+    .main_head{
+      font-size: 2rem;
+    }
+  }
