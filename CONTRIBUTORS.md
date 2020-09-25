@@ -8,4 +8,4 @@
 | 4       | [Rohan Shakya](https://github.com/Rohan-Shakya) | Sagarmatha College of Science and Technology | React, Node.js, Express , MongoDB |
 | 5       | [Rupesh Gelal](https://github.com/rgrupesh) | Nepal Engineering College | Python, DL, JavaScript        |
 | 6       | [Sayed Mohd Kazim Mehdi](https://github.com/kazimsayed954) | Anjuman-I-Islam's Kalsekar Technical Campus | Android, Java ,Kotlin, Flutter, Python |
-
+| 7       | [Vaibhav Sharma](https://github.com/gigabite-pro) | Amity International School | Flutter, Python, Javascript, Express, Node.js |
