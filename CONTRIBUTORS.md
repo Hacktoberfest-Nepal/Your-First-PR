@@ -7,3 +7,4 @@
 | 3       | [Rohan Shakya](https://github.com/Rohan-Shakya) | Sagarmatha College of Science and Technology | React, Node.js, Express , MongoDB |
 | 4       | [Rupesh Gelal](https://github.com/rgrupesh) | Nepal Engineering College | Python, DL, JavaScript        |
 | 5       | [Sayed Mohd Kazim Mehdi](https://github.com/kazimsayed954) | Anjuman-I-Islam's Kalsekar Technical Campus | Android, Java ,Kotlin, Flutter, Python |
+|6        | [evantoday] (https://github.com/evantoday)| SMK5               | Cybersec
