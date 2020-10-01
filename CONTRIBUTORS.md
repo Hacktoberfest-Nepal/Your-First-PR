@@ -12,3 +12,4 @@
 | 8       | [Pratik Shirodkar](https://github.com/Pratik-Shirodkar)   | Shree Rayeshwar Institute of Engineering And Information Technology | C++,Python,Java|
 | 9       | [Vaibhav Sharma](https://github.com/gigabite-pro) | Amity International School | Flutter, Python, Javascript, Express, Node.js |
 |10       | [Bhawesh Chaudhary](https://github.com/callmebhawesh) | Arniko Awasiya School | Python, Django, Bootstrap |
+| 11      | [Juan Vasquez](https://github.com/JuanVqz)            | Internet                                                            | Javascript, Ruby                              |
