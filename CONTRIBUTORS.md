@@ -26,3 +26,4 @@
 | 22      | [Vaibhav Sharma](https://github.com/gigabite-pro)          | Amity International School                                          | Flutter, Python, Javascript, Express, Node.js |
 | 23      | [Prithviraj Biswas](https://github.com/prithvirajcodes)    | Guru NanaK Institute of Technology                                  | HTML, CSS, Javascript, Node.js, Android       |
 | 24      | [Andres Wellmann](https://github.com/AndresW99)            | University Mariano Galvez of Guatemala                              | JavaScript, React.js, Node.js, CSS |
+| 25      |[Vineesha Andhavarapu](https://github.com/VINEESHAANDHAVARAPU)  |GVPCE                                                            | HTML,CSS,JS,PYTHON,FLUTTER
