@@ -1,7 +1,7 @@
 # Your First Pull Request
 
 <p align="center">
-    <img src="./assets/hacktoberfest.png">
+    <img src="./assets/sagarmathahacktoberfest.png">
 </p>
 
 <p align="center">
