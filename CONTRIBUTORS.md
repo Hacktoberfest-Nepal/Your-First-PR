@@ -4,7 +4,6 @@
 | ------- | ---------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------- |
 | 1       | [Aju Tamang](https://github.com/aju100)                    | Amrit Science Campus                                                | Go, K8S & Docker, Python, C++                 |
 | 2       | [Aman Raj](https://github.com/AshAman999)                   | Bce Patna                                                        | python, flutter and dart, webDev,C++                 |
-
 | 3       | [Bhawesh Chaudhary](https://github.com/callmebhawesh)      | Arniko Awasiya School                                               | Python, Django, Bootstrap                     |
 | 4       | [Chudaraj Poudyal](https://github.com/crpoudyal)           | Sagarmatha College of Science and Technology                        | HTML, CSS, JavaScript, PHP                    |
 | 5       | [evantoday](https://github.com/evantoday)| SMK5            | Cybersec |
