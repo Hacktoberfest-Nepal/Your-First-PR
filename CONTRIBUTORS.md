@@ -31,3 +31,4 @@
 | 27       | [Aman Raj](https://github.com/AshAman999)                    | BCE Patna                                                |  Python, c++,Flutter & Dart, Webdev,JAVA                 |
 | 28      | [fatik07](https://github.com/fatik07)                      | State University of Surabaya, Indonesia                             | Html, css, php, laravel                       |
 | 29      | [Irfan](https://github.com/aneirfan)                      | AHI                             | HTML, CSS, PHP, Laravel, Vue                       |
+| 30      | [naufal](https://github.com/fall-dawam)                      |                              | HTML, CSS, Java, Reactjs, Laravel, Vue                       |
