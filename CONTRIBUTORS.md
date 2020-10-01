@@ -8,7 +8,7 @@
 | 4       | [evantoday](https://github.com/evantoday)| SMK5            | Cybersec |
 | 5       | [Jatin Aggarwal](https://github.com/jatinagg1)             | Thapar Institute of Engineering and Technology | C++, C, HTML, Django, Python, Arduino |
 | 6       | [Juan Vasquez](https://github.com/JuanVqz)                 | Internet                                                            | Javascript, Ruby                              |
-| 7       | [Krishna](https://github.com/M-krishna)                    | K.S.Rangasamy College of Technology                                 | JavaScript, React, Go, NodeJS, Python         |
+| 7       | [Krishna](https://github.com/M-krishna)                    | K.S.Rangasamy College of Technology                             | JavaScript, React, Go, NodeJS, Python         |
 | 8       | [Mahendra Rathore](https://github.com/Mahendra7985)        | IIIT Kalyani                                                        | Python, dart, c, flutter                      |
 | 9       | [Manish Bhattarai](https://github.com/nepalikingpin) | Kathmandu BernHardt College | Sarcasm, Common Sense |
 | 10      | [Nonthawat Duangchai](https://github.com/n0nz)             | King Mongkut's University of Technology Thonburi                    | Golang, MongoDB, Docker, Kubernetes, Linux    |
