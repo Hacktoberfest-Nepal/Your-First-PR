@@ -38,3 +38,4 @@
 | 33      | [Angger Rafi Akbar](https://github.com/rafinetiz)          | TechBytes                      | Python, NodeJS, PHP, Javascript | 
 | 34       | [Shubhika Shubhavee](https://github.com/shubhavee)        | Manipal Institute of Technology                                         | HTML/CSS, Javascript, React JS, Django, Python |
 | 35      | [naufal](https://github.com/fall-dawam)                      |                              | HTML, CSS, Java, Reactjs, Laravel, Vue                       |
+| 36      | [Shivam Birla](https://github.com/Shivam4747)                      |         GGSIPU      |          Python, CyberSec, Bash          |
