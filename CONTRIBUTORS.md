@@ -11,4 +11,4 @@
 | 7       | [Sayed Mohd Kazim Mehdi](https://github.com/kazimsayed954) | Anjuman-I-Islam's Kalsekar Technical Campus | Android, Java ,Kotlin, Flutter, Python |
 | 8       | [Pratik Shirodkar](https://github.com/Pratik-Shirodkar)   | Shree Rayeshwar Institute of Engineering And Information Technology | C++,Python,Java|
 | 9       | [Vaibhav Sharma](https://github.com/gigabite-pro) | Amity International School | Flutter, Python, Javascript, Express, Node.js |
-| 10      | [Daksh Jain](https://github.com/Dakshjain1) | SRMIST, Chennai | Terraform, Flutter, Python, Hybrid Cloud |
+| 10      | [Daksh Jain](https://github.com/Dakshjain1) | SRMIST Chennai | Terraform, Flutter, Python, Hybrid Cloud |
