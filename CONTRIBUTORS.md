@@ -3,7 +3,7 @@
 | Sl. No. | Name                                                       | Institution                                                         | Skills                                        |
 | ------- | ---------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------- |
 | 1       | [Aju Tamang](https://github.com/aju100)                    | Amrit Science Campus                                                | Go, K8S & Docker, Python, C++                 |
-| 2      | [Akash Prasher](https://github.com/akashprasher)          | UIE - Chandigarh University                                          | Python, Javascript, React, Express, Node.js |
+| 2       | [Akash Prasher](https://github.com/akashprasher)          | UIE - Chandigarh University                                          | Python, Javascript, React, Express, Node.js |
 | 3       | [Bhawesh Chaudhary](https://github.com/callmebhawesh)      | Arniko Awasiya School                                               | Python, Django, Bootstrap                     |
 | 4       | [Chudaraj Poudyal](https://github.com/crpoudyal)           | Sagarmatha College of Science and Technology                        | HTML, CSS, JavaScript, PHP                    |
 | 5       | [evantoday](https://github.com/evantoday)| SMK5            | Cybersec |
@@ -21,3 +21,4 @@
 | 17      | [Sayed Mohd Kazim Mehdi](https://github.com/kazimsayed954) | Anjuman-I-Islam's Kalsekar Technical Campus                         | Android, Java ,Kotlin, Flutter, Python        |
 | 18      | [Vaibhav Sharma](https://github.com/gigabite-pro)          | Amity International School                                          | Flutter, Python, Javascript, Express, Node.js |
 | 19      | [Prithviraj Biswas](https://github.com/prithvirajcodes)    | Guru NanaK Institute of Technology                                  | HTML, CSS, Javascript, Node.js, Android       |
+| 20      | [Andres Wellmann](https://github.com/AndresW99)            | University Mariano Galvez of Guatemala                              | JavaScript, React.js, Node.js, CSS |
