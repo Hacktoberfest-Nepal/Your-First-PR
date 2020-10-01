@@ -32,3 +32,8 @@
 | 27      | [Tusharr_Gupta](https://github.com/Tusharr08)              | Pranveer Singh Institute Of Technology | HTML, CSS, JS, PYTHON, C, SQLite, Github, Java   |  
 | 28      | [Vaibhav Sharma](https://github.com/gigabite-pro)          | Amity International School                                          | Flutter, Python, Javascript, Express, Node.js |
 | 29      |[Vineesha Andhavarapu](https://github.com/VINEESHAANDHAVARAPU)  |GVPCE                                                            | HTML,CSS,JS,PYTHON,FLUTTER
+| 30       | [Aman Raj](https://github.com/AshAman999)                    | BCE Patna                                                |  Python, c++,Flutter & Dart, Webdev,JAVA                 |
+| 31      | [fatik07](https://github.com/fatik07)                      | State University of Surabaya, Indonesia                             | Html, css, php, laravel                       |
+| 32      | [Irfan](https://github.com/aneirfan)                      | AHI                             | HTML, CSS, PHP, Laravel, Vue                       |
+| 33      | [Angger Rafi Akbar](https://github.com/rafinetiz)          | TechBytes                      | Python, NodeJS, PHP, Javascript | 
+| 34       | [Shubhika Shubhavee](https://github.com/shubhavee)        | Manipal Institute of Technology                                         | HTML/CSS, Javascript, React JS, Django, Python |
