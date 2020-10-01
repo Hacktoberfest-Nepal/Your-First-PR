@@ -18,5 +18,6 @@
 | 14      | [Rohan Shakya](https://github.com/Rohan-Shakya)            | Sagarmatha College of Science and Technology                        | React, Node.js, Express , MongoDB             |
 | 15      | [Rupesh Gelal](https://github.com/rgrupesh)                | Nepal Engineering College                                           | Python, DL, JavaScript                        |
 | 16      | [Sayed Mohd Kazim Mehdi](https://github.com/kazimsayed954) | Anjuman-I-Islam's Kalsekar Technical Campus                         | Android, Java ,Kotlin, Flutter, Python        |
-| 17      | [Vaibhav Sharma](https://github.com/gigabite-pro)          | Amity International School                                          | Flutter, Python, Javascript, Express, Node.js |
-| 18      | [Prithviraj Biswas](https://github.com/prithvirajcodes)    | Guru NanaK Institute of Technology                                  | HTML, CSS, Javascript, Node.js, Android       |
+| 17      | [Sravya Sri](https://github.com/sravyasri2001)             |GVP college Of Engineering                                           | C++,Java,MySQL,DSA,HTML,CSS,JS,Python|
+| 18      | [Vaibhav Sharma](https://github.com/gigabite-pro)          | Amity International School                                          | Flutter, Python, Javascript, Express, Node.js |
+| 19      | [Prithviraj Biswas](https://github.com/prithvirajcodes)    | Guru NanaK Institute of Technology                                  | HTML, CSS, Javascript, Node.js, Android       |
