@@ -3,7 +3,7 @@
 | Sl. No. | Name                                                       | Institution                                                         | Skills                                        |
 | ------- | ---------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------- |
 | 1       | [Aju Tamang](https://github.com/aju100)                    | Amrit Science Campus                                                | Go, K8S & Docker, Python, C++                 |
-| 2       | [Bhawesh Chaudhary](https://github.com/callmebhawesh)      | Arniko Awasiya School                                               | Python, Django, Bootstrap                     |
+| 2       | [Bhawesh Chaudhary](https://github.com/callmebhawesh)      | Arniko Awasiya Secondary School                                     | Python, Django, Bootstrap                     |
 | 3       | [Chudaraj Poudyal](https://github.com/crpoudyal)           | Sagarmatha College of Science and Technology                        | HTML, CSS, JavaScript, PHP                    |
 | 4       | [evantoday](https://github.com/evantoday)| SMK5            | Cybersec |
 | 5       | [Jatin Aggarwal](https://github.com/jatinagg1)             | Thapar Institute of Engineering and Technology | C++, C, HTML, Django, Python, Arduino |
