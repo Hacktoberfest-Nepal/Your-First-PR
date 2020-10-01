@@ -13,7 +13,6 @@
 | 9       | [Daksh Jain](https://github.com/Dakshjain1)                | SRMIST Chennai                                                      | Terraform, Flutter, Python, Hybrid Cloud |
 | 10       | [evantoday](https://github.com/evantoday)| SMK5            | Cybersec                                                            |
 | 11      | [fatik07](https://github.com/fatik07)                      | State University of Surabaya, Indonesia                             | Html, css, php, laravel                       |
-
 | 12       | [Jatin Aggarwal](https://github.com/jatinagg1)             | Thapar Institute of Engineering and Technology | C++, C, HTML, Django, Python, Arduino |
 | 13       | [Juan Vasquez](https://github.com/JuanVqz)                 | Internet                                                            | Javascript, Ruby                              |
 | 14       | [Krishna](https://github.com/M-krishna)                    | K.S.Rangasamy College of Technology                                 | JavaScript, React, Go, NodeJS, Python         |
@@ -38,3 +37,4 @@
 | 33      | [Angger Rafi Akbar](https://github.com/rafinetiz)          | TechBytes                      | Python, NodeJS, PHP, Javascript | 
 | 34       | [Shubhika Shubhavee](https://github.com/shubhavee)        | Manipal Institute of Technology                                         | HTML/CSS, Javascript, React JS, Django, Python |
 | 35      | [naufal](https://github.com/fall-dawam)                      |                              | HTML, CSS, Java, Reactjs, Laravel, Vue                       |
+| 36     | [Renato Ramos Nascimento](https://github.com/renato04)                      |           FATEC-SP /Brazil                   | C#, JS, Python,                       |
