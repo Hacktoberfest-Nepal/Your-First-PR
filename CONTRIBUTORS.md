@@ -28,3 +28,4 @@
 | 24      | [Andres Wellmann](https://github.com/AndresW99)            | University Mariano Galvez of Guatemala                              | JavaScript, React.js, Node.js, CSS |
 | 25      |[Vineesha Andhavarapu](https://github.com/VINEESHAANDHAVARAPU)  |GVPCE                                                            | HTML,CSS,JS,PYTHON,FLUTTER
 | 26      | [Sravya Sri Virigineni](https://github.com/sravyasri2001)  |GVP college Of Engineering                                           | C++,Java,MySQL,DSA,HTML,CSS,JS,Python|
+| 27       | [Aman Raj](https://github.com/AshAman999)                    | BCE Patna                                                |  Python, c++,Flutter & Dart, Webdev,JAVA                 |
