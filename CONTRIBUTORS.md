@@ -12,3 +12,4 @@
 | 9       | [Vaibhav Sharma](https://github.com/gigabite-pro)          | Amity International School                                          | Flutter, Python, Javascript, Express, Node.js |
 | 10      | [Bhawesh Chaudhary](https://github.com/callmebhawesh)      | Arniko Awasiya School                                               | Python, Django, Bootstrap                     |
 | 11      | [Pkitachi](https://github.com/pkitachi)                    | CBIT                                                                | Python, Django, Bootstrap, FLutter, Android   |
+| 12      | [Mahendra Rathore](https://github.com/Mahendra7985)        | IIIT Kalyani                                                        | Python, dart, c, flutter                      |
