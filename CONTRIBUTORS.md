@@ -19,3 +19,4 @@
 | 15      | [Rupesh Gelal](https://github.com/rgrupesh)                | Nepal Engineering College                                           | Python, DL, JavaScript                        |
 | 16      | [Sayed Mohd Kazim Mehdi](https://github.com/kazimsayed954) | Anjuman-I-Islam's Kalsekar Technical Campus                         | Android, Java ,Kotlin, Flutter, Python        |
 | 17      | [Vaibhav Sharma](https://github.com/gigabite-pro)          | Amity International School                                          | Flutter, Python, Javascript, Express, Node.js |
+| 18      | [Sanjay jaiswal](https://github.com/sanjay-xdr)          | Chandigarh University                                          | Web pentest, Python, Javascript, Java |
