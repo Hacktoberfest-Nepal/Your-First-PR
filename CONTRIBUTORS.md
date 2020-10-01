@@ -30,3 +30,4 @@
 | 26      | [Sravya Sri Virigineni](https://github.com/sravyasri2001)  |GVP college Of Engineering                                           | C++,Java,MySQL,DSA,HTML,CSS,JS,Python|
 | 27       | [Aman Raj](https://github.com/AshAman999)                    | BCE Patna                                                |  Python, c++,Flutter & Dart, Webdev,JAVA                 |
 | 28      | [fatik07](https://github.com/fatik07)                      | State University of Surabaya, Indonesia                             | Html, css, php, laravel                       |
+| 29      | [Irfan](https://github.com/aneirfan)                      | AHI                             | HTML, CSS, PHP, Laravel, Vue                       |
