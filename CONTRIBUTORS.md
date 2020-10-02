@@ -41,4 +41,4 @@
 | 37      | [Shivam Birla](https://github.com/Shivam4747)                  | GGSIPU                                                              | Python, CyberSec, Bash                                             |
 | 38      | [Pranay Kothari] (https://github.com/Heisenberg-737)           | Netaji Subhas University of Technology                              | Python, HTML,CSS, JavaScript, Flask, Django, React                 |
 | 39      | [Sachin Som](https://github.com/sachinsom93)                   | ACEIT jaipur                                                        | MERN, python, C++
-                                   |
+                                   
