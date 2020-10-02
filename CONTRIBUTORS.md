@@ -1,21 +1,42 @@
 ## Contributors
 
-| Sl. No. | Name                                                       | Institution                                                         | Skills                                        |
-| ------- | ---------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------- |
-| 1       | [Aju Tamang](https://github.com/aju100)                    | Amrit Science Campus                                                | Go, K8S & Docker, Python, C++                 |
-| 2       | [Bhawesh Chaudhary](https://github.com/callmebhawesh)      | Arniko Awasiya Secondary School                                     | Python, Django, Bootstrap                     |
-| 3       | [Chudaraj Poudyal](https://github.com/crpoudyal)           | Sagarmatha College of Science and Technology                        | HTML, CSS, JavaScript, PHP                    |
-| 4       | [evantoday](https://github.com/evantoday)| SMK5            | Cybersec |
-| 5       | [Jatin Aggarwal](https://github.com/jatinagg1)             | Thapar Institute of Engineering and Technology | C++, C, HTML, Django, Python, Arduino |
-| 6       | [Juan Vasquez](https://github.com/JuanVqz)                 | Internet                                                            | Javascript, Ruby                              |
-| 7       | [Krishna](https://github.com/M-krishna)                    | K.S.Rangasamy College of Technology                             | JavaScript, React, Go, NodeJS, Python         |
-| 8       | [Mahendra Rathore](https://github.com/Mahendra7985)        | IIIT Kalyani                                                        | Python, dart, c, flutter                      |
-| 9       | [Manish Bhattarai](https://github.com/nepalikingpin) | Kathmandu BernHardt College | Sarcasm, Common Sense |
-| 10      | [Nonthawat Duangchai](https://github.com/n0nz)             | King Mongkut's University of Technology Thonburi                    | Golang, MongoDB, Docker, Kubernetes, Linux    |
-| 11      | [Pkitachi](https://github.com/pkitachi)                    | CBIT                                                                | Python, Django, Bootstrap, FLutter, Android   |
-| 12      | [Pratik Shirodkar](https://github.com/Pratik-Shirodkar)    | Shree Rayeshwar Institute of Engineering And Information Technology | C++,Python,Java                               |
-| 13      | [Rakshita Jain](https://github.com/raksh543)               | National Institute of Technology, Patna                             | MERN                                          | Android (Frontend) | C++ |
-| 14      | [Rohan Shakya](https://github.com/Rohan-Shakya)            | Sagarmatha College of Science and Technology                        | React, Node.js, Express , MongoDB             |
-| 15      | [Rupesh Gelal](https://github.com/rgrupesh)                | Nepal Engineering College                                           | Python, DL, JavaScript                        |
-| 16      | [Sayed Mohd Kazim Mehdi](https://github.com/kazimsayed954) | Anjuman-I-Islam's Kalsekar Technical Campus                         | Android, Java ,Kotlin, Flutter, Python        |
-| 17      | [Vaibhav Sharma](https://github.com/gigabite-pro)          | Amity International School                                          | Flutter, Python, Javascript, Express, Node.js |
+| Sl. No. | Name                                                           | Institution                                                         | Skills                                                             |
+| ------- | -------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 1       | [Aditya Negandhi](https://github.com/binarybeast01)            | GLS Institute of Technology                                         | Flutter, Android Javascript, MERN                                  |
+| 2       | [Aju Tamang](https://github.com/aju100)                        | Amrit Science Campus                                                | Go, K8S & Docker, Python, C++                                      |
+| 3       | [Akash Prasher](https://github.com/akashprasher)               | UIE - Chandigarh University                                         | Python, Javascript, React, Express, Node.js                        |
+| 4       | [Alok Kumar](https://github.com/alokkumarak)                   | BCE,Bakhtiyarpur                                                    | HTML,CSS,JAVASCRIPT,NODE,REACT,C,C++,JAVA,PYTHON,PHP,SQL,BOOTSTRAP |
+| 5       | [Aman Raj](https://github.com/AshAman999)                      | BCE Patna                                                           | Python, c++,Flutter & Dart, Webdev,JAVA                            |
+| 6       | [Andres Wellmann](https://github.com/AndresW99)                | University Mariano Galvez of Guatemala                              | JavaScript, React.js, Node.js, CSS                                 |
+| 7       | [Bhawesh Chaudhary](https://github.com/callmebhawesh)          | Arniko Awasiya Secondary School                                               | Python, Django, Bootstrap                                          |
+| 8       | [Bruno Almeida](https://github.com/Brunopbb)                   | Federal University of Campina Grande                                | Python, C++, IA                                                    |
+| 9       | [Chudaraj Poudyal](https://github.com/crpoudyal)               | Sagarmatha College of Science and Technology                        | HTML, CSS, JavaScript, PHP                                         |
+| 10      | [Daksh Jain](https://github.com/Dakshjain1)                    | SRMIST Chennai                                                      | Terraform, Flutter, Python, Hybrid Cloud                           |
+| 11      | [evantoday](https://github.com/evantoday)                      | SMK5                                                                | Cybersec                                                           |
+| 12      | [fatik07](https://github.com/fatik07)                          | State University of Surabaya, Indonesia                             | Html, css, php, laravel                                            |
+| 13      | [Jatin Aggarwal](https://github.com/jatinagg1)                 | Thapar Institute of Engineering and Technology                      | C++, C, HTML, Django, Python, Arduino                              |
+| 14      | [Juan Vasquez](https://github.com/JuanVqz)                     | Internet                                                            | Javascript, Ruby                                                   |
+| 15      | [Krishna](https://github.com/M-krishna)                        | K.S.Rangasamy College of Technology                                 | JavaScript, React, Go, NodeJS, Python                              |
+| 16      | [Mahendra Rathore](https://github.com/Mahendra7985)            | IIIT Kalyani                                                        | Python, dart, c, flutter                                           |
+| 17      | [Manish Bhattarai](https://github.com/nepalikingpin)           | Kathmandu BernHardt College                                         | Sarcasm, Common Sense                                              |
+| 18      | [Nonthawat Duangchai](https://github.com/n0nz)                 | King Mongkut's University of Technology Thonburi                    | Golang, MongoDB, Docker, Kubernetes, Linux                         |
+| 19      | [Pkitachi](https://github.com/pkitachi)                        | CBIT                                                                | Python, Django, Bootstrap, FLutter, Android                        |
+| 20      | [Pratik Shirodkar](https://github.com/Pratik-Shirodkar)        | Shree Rayeshwar Institute of Engineering And Information Technology | C++,Python,Java                                                    |
+| 21      | [Prithviraj Biswas](https://github.com/prithvirajcodes)        | Guru NanaK Institute of Technology                                  | HTML, CSS, Javascript, Node.js, Android                            |
+| 22      | [Rakshita Jain](https://github.com/raksh543)                   | National Institute of Technology, Patna                             | MERN                                                               | Android (Frontend) | C++ |
+| 23      | [Rohan Shakya](https://github.com/Rohan-Shakya)                | Sagarmatha College of Science and Technology                        | React, Node.js, Express , MongoDB                                  |
+| 24      | [Rupesh Gelal](https://github.com/rgrupesh)                    | Nepal Engineering College                                           | Python, DL, JavaScript                                             |
+| 25      | [Sayed Mohd Kazim Mehdi](https://github.com/kazimsayed954)     | Anjuman-I-Islam's Kalsekar Technical Campus                         | Android, Java ,Kotlin, Flutter, Python                             |
+| 26      | [Shubham Yadav](https://github.com/shubhamdsm)                 | Lovely Professional University                                      | HTML5, CSS, Javascript, React                                      |
+| 27      | [Sravya Sri Virigineni](https://github.com/sravyasri2001)      | GVP college Of Engineering                                          | C++,Java,MySQL,DSA,HTML,CSS,JS,Python                              |
+| 28      | [Tusharr_Gupta](https://github.com/Tusharr08)                  | Pranveer Singh Institute Of Technology                              | HTML, CSS, JS, PYTHON, C, SQLite, Github, Java                     |
+| 29      | [Vaibhav Sharma](https://github.com/gigabite-pro)              | Amity International School                                          | Flutter, Python, Javascript, Express, Node.js                      |
+| 30      | [Vineesha Andhavarapu](https://github.com/VINEESHAANDHAVARAPU) | GVPCE                                                               | HTML,CSS,JS,PYTHON,FLUTTER                                         |
+| 31      | [Aman Raj](https://github.com/AshAman999)                      | BCE Patna                                                           | Python, c++,Flutter & Dart, Webdev,JAVA                            |
+| 32      | [fatik07](https://github.com/fatik07)                          | State University of Surabaya, Indonesia                             | Html, css, php, laravel                                            |
+| 33      | [Irfan](https://github.com/aneirfan)                           | AHI                                                                 | HTML, CSS, PHP, Laravel, Vue                                       |
+| 34      | [Angger Rafi Akbar](https://github.com/rafinetiz)              | TechBytes                                                           | Python, NodeJS, PHP, Javascript                                    |
+| 35      | [Shubhika Shubhavee](https://github.com/shubhavee)             | Manipal Institute of Technology                                     | HTML/CSS, Javascript, React JS, Django, Python                     |
+| 36      | [naufal](https://github.com/fall-dawam)                        |                                                                     | HTML, CSS, Java, Reactjs, Laravel, Vue                             |
+| 37      | [Shivam Birla](https://github.com/Shivam4747)                  | GGSIPU                                                              | Python, CyberSec, Bash                                             |
+| 38      | [Pranay Kothari] (https://github.com/Heisenberg-737)           | Netaji Subhas University of Technology                              | Python, HTML,CSS, JavaScript, Flask, Django, React                 |
