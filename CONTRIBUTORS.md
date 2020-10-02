@@ -41,3 +41,5 @@
 | 37      | [naufal](https://github.com/fall-dawam)                        |                                                                     | HTML, CSS, Java, Reactjs, Laravel, Vue                             |
 | 38      | [Shivam Birla](https://github.com/Shivam4747)                  | GGSIPU                                                              | Python, CyberSec, Bash                                             |
 | 39      | [Pranay Kothari] (https://github.com/Heisenberg-737)           | Netaji Subhas University of Technology                              | Python, HTML,CSS, JavaScript, Flask, Django, React                 |
+
+| 40      | [Aashish Bhandari] (https://github.com/awebisam)           | Ekta Academy Boarding School                          | Python, HTML, CSS, JavaScript, Vue, Django, Flask                 |
