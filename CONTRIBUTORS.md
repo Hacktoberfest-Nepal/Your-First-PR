@@ -24,6 +24,7 @@
 | 20      | [Pkitachi](https://github.com/pkitachi)                        | CBIT                                                                | Python, Django, Bootstrap, FLutter, Android                        |
 | 21      | [Pratik Shirodkar](https://github.com/Pratik-Shirodkar)        | Shree Rayeshwar Institute of Engineering And Information Technology | C++,Python,Java                                                    |
 | 22      | [Prithviraj Biswas](https://github.com/prithvirajcodes)        | Guru NanaK Institute of Technology                                  | HTML, CSS, Javascript, Node.js, Android                            |
+| 22      | [Pujan Thapa](https://github.com/iampujan)        | Tribhuvan University                                  | HTML, CSS, Python, Flask, Django, Pandas | 
 | 23      | [Rakshita Jain](https://github.com/raksh543)                   | National Institute of Technology, Patna                             | MERN                                                               | Android (Frontend) | C++ |
 | 24      | [Rohan Shakya](https://github.com/Rohan-Shakya)                | Sagarmatha College of Science and Technology                        | React, Node.js, Express , MongoDB                                  |
 | 25      | [Rupesh Gelal](https://github.com/rgrupesh)                    | Nepal Engineering College                                           | Python, DL, JavaScript                                             |
