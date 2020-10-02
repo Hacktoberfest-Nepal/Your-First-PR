@@ -12,6 +12,7 @@
 | 8       | [Bruno Almeida](https://github.com/Brunopbb)                   | Federal University of Campina Grande                                | Python, C++, IA                                                    |
 | 9       | [Chudaraj Poudyal](https://github.com/crpoudyal)               | Sagarmatha College of Science and Technology                        | HTML, CSS, JavaScript, PHP                                         |
 | 10      | [Daksh Jain](https://github.com/Dakshjain1)                    | SRMIST Chennai                                                      | Terraform, Flutter, Python, Hybrid Cloud                           |
+| 11      | [Dilip Paudel](https://github.com/dlppdl)                      | National College Of Engineering, IOE | Python, HTML5, CSS3, SEO, Wordpress |
 | 11      | [evantoday](https://github.com/evantoday)                      | SMK5                                                                | Cybersec                                                           |
 | 12      | [fatik07](https://github.com/fatik07)                          | State University of Surabaya, Indonesia                             | Html, css, php, laravel                                            |
 | 13      | [Jatin Aggarwal](https://github.com/jatinagg1)                 | Thapar Institute of Engineering and Technology                      | C++, C, HTML, Django, Python, Arduino                              |
