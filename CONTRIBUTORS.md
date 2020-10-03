@@ -43,3 +43,4 @@
 | 39      | [naufal](https://github.com/fall-dawam)                        |                                                                     | HTML, CSS, Java, Reactjs, Laravel, Vue                             |
 | 40      | [Shivam Birla](https://github.com/Shivam4747)                  | GGSIPU                                                              | Python, CyberSec, Bash                                             |
 | 41      | [Pranay Kothari] (https://github.com/Heisenberg-737)           | Netaji Subhas University of Technology                              | Python, HTML,CSS, JavaScript, Flask, Django, React                 |
+| 42      | [Siddhant Gupta] (https://github.com/siddhantparadox)          | SSGMCE                                                              | React, HTML, CSS, Bootstrap, JS
