@@ -49,3 +49,4 @@
 | 45       | [Sanjay Sanjel](https://github.com/sanjaysanjel019)                        | Deerwalk Institute of Technology                                                | Node, Vue, HTML/CSS, Python
 | 46       | [Aayush Bhattarai](https://github.com/coder-Aayush)            | Xavier International College                                         | Flutter, Python  |
 | 47      | [Aashish Bhandari] (https://github.com/awebisam)           | Ekta Academy Boarding School                          | Python, HTML, CSS, JavaScript, Vue, Django, Flask                 |
+| 48      | [Sarthak Agrawal] (https://github.com/sarthakagrawal927)       | MIT, Manipal                                                        | Python, HTML,CSS, JavaScript, Flask, NodeJS, React                 |
