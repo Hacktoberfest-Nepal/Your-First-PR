@@ -21,7 +21,7 @@
 | 17      | [Krishna](https://github.com/M-krishna)                        | K.S.Rangasamy College of Technology                                 | JavaScript, React, Go, NodeJS, Python                              |
 | 18      | [Mahendra Rathore](https://github.com/Mahendra7985)            | IIIT Kalyani                                                        | Python, dart, c, flutter                                           |
 | 19      | [Manish Bhattarai](https://github.com/nepalikingpin)           | Kathmandu BernHardt College                                         | Sarcasm, Common Sense                                              |
-| 20      | [Nirjal Paudel](https://github.com/n1rjal)                     | Madan BHandari Memorial College                                     | Python, Django, Javascript MERN stack
+| 20      | [Nirjal Paudel](https://github.com/n1rjal)                     | Madan Bhandari Memorial College                                     | Python, Django, Javascript MERN stack
 | 21      | [Nonthawat Duangchai](https://github.com/n0nz)                 | King Mongkut's University of Technology Thonburi                    | Golang, MongoDB, Docker, Kubernetes, Linux                         |
 | 22      | [Pkitachi](https://github.com/pkitachi)                        | CBIT                                                                | Python, Django, Bootstrap, FLutter, Android                        |
 | 23      | [Pratik Shirodkar](https://github.com/Pratik-Shirodkar)        | Shree Rayeshwar Institute of Engineering And Information Technology | C++,Python,Java                                                    |
