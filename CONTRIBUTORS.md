@@ -46,4 +46,4 @@
 | 42     | [Renato Ramos Nascimento](https://github.com/renato04)                      |           FATEC-SP /Brazil                   | C#, JS, Python,                       |
 | 43      | [Kunal Sah](https://github.com/Kunalsah29/open)                | Mahendra Morang Aadarsh Multiple Campus                             | Html, css , Bootstrap                                              |
 | 44      | [Sachin Som](https://github.com/sachinsom93)                   | ACEIT jaipur                                                        | MERN, python, C++
- 
+| 45       | [Sanjay Sanjel](https://github.com/sanjaysanjel019)                        | Deerwalk Institute of Technology                                                | Node, Vue, HTML/CSS, Python
