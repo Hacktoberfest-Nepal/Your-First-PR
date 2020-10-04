@@ -51,3 +51,4 @@
 | 47      | [Aashish Bhandari] (https://github.com/awebisam)           | Ekta Academy Boarding School                          | Python, HTML, CSS, JavaScript, Vue, Django, Flask                 |
 | 48      | [Sarthak Agrawal] (https://github.com/sarthakagrawal927)       | MIT, Manipal                                                        | Python, HTML,CSS, JavaScript, Flask, NodeJS, React                 |
 | 49      | [Siddhant Gupta] (https://github.com/siddhantparadox)          | SSGMCE                                                              | React, HTML, CSS, Bootstrap, JS
+| 50	  |  [Meghana Kolluri](https://github.com/meghanakolluri) | GVPCE | C/C++,Python,Java,HTML,CSS,JavaScript,SQL,DS and Algo
