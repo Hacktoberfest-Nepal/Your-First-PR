@@ -8,7 +8,7 @@
     The goal of this project is to get started with Open Source and make your first <a href="https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests">Pull Request(PR)</a>.
 </p>
 
-This is a beginner-friendly repository made specifically for the [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and  helps you get started with your first PR and takes you a step closer to earning your Hacktoberfest T-shirt 👕.
+This is a beginner-friendly repository made specifically for the [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and helps you get started with your first PR and takes you a step closer to earning your Hacktoberfest T-shirt 👕.
 
 🎯 In case you are an intermediate or advanced level programmer or developer, we have got you covered too!! Step to our <a href="https://github.com/Hacktoberfest-Nepal" target="blank"> repositories</a> and make contributions as per as your interests.
 
@@ -22,7 +22,7 @@ This is a beginner-friendly repository made specifically for the [Hacktoberfest]
 
 - Fork this repo 🍴
 - Add your name, GitHub profile link and technology you work on, on [CONTRIBUTORS.md](./CONTRIBUTORS.md) 🙋‍♀️ 🙋‍♂️ <br>
-- Make sure that your info should be in alphabetical order. Here is the [sample](./assets/example.png).
+- Here is the [sample](./assets/example.png).
 - Under menu item [`Pull requests`](https://github.com/coolbrg/Your-First-PR/pulls), click on `New Pull Request`
 - Provide a title and description
 - Click `Create Pull Request`
