@@ -8,7 +8,7 @@
 | 4       | [Alok Kumar](https://github.com/alokkumarak)                   | BCE,Bakhtiyarpur                                                    | HTML,CSS,JAVASCRIPT,NODE,REACT,C,C++,JAVA,PYTHON,PHP,SQL,BOOTSTRAP |
 | 5       | [Aman Raj](https://github.com/AshAman999)                      | BCE Patna                                                           | Python, c++,Flutter & Dart, Webdev,JAVA                            |
 | 6       | [Andres Wellmann](https://github.com/AndresW99)                | University Mariano Galvez of Guatemala                              | JavaScript, React.js, Node.js, CSS                                 |
-| 7       | [Bhawesh Chaudhary](https://github.com/callmebhawesh)          | Arniko Awasiya School                                               | Python, Django, Bootstrap                                          |
+| 7       | [Bhawesh Chaudhary](https://github.com/callmebhawesh)          | Arniko Awasiya Secondary School                                               | Python, Django, Bootstrap                                          |
 | 8       | [Bruno Almeida](https://github.com/Brunopbb)                   | Federal University of Campina Grande                                | Python, C++, IA                                                    |
 | 9       | [Budh Ram Gurung](https://github.com/coolbrg)                  | BRG Trainings                                                       | HTML, CSS, JavaScript, Ruby, Ruby on Rails, Go, Docker ...         |
 | 10       | [Chudaraj Poudyal](https://github.com/crpoudyal)              | Sagarmatha College of Science and Technology                        | HTML, CSS, JavaScript, PHP                                         |
@@ -43,4 +43,5 @@
 | 39      | [naufal](https://github.com/fall-dawam)                        |                                                                     | HTML, CSS, Java, Reactjs, Laravel, Vue                             |
 | 40      | [Shivam Birla](https://github.com/Shivam4747)                  | GGSIPU                                                              | Python, CyberSec, Bash                                             |
 | 41      | [Pranay Kothari] (https://github.com/Heisenberg-737)           | Netaji Subhas University of Technology                              | Python, HTML,CSS, JavaScript, Flask, Django, React                 |
-| 32     | [Renato Ramos Nascimento](https://github.com/renato04)                      |           FATEC-SP /Brazil                   | C#, JS, Python,                       |
+| 42     | [Renato Ramos Nascimento](https://github.com/renato04)                      |           FATEC-SP /Brazil                   | C#, JS, Python,                       |
+| 43      | [Kunal Sah](https://github.com/Kunalsah29/open)                | Mahendra Morang Aadarsh Multiple Campus                             | Html, css , Bootstrap                                              |
