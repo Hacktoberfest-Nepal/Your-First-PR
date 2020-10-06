@@ -54,4 +54,7 @@
 | 50	  |  [Meghana Kolluri](https://github.com/meghanakolluri) | GVPCE | C/C++,Python,Java,HTML,CSS,JavaScript,SQL,DS and Algo
 | 51      | [Ananta Mishra] (https://github.com/anantamishra)           | Indreni College, Bharatpur, Chitwan                              | HTML, CSS, JS, Flutter, React  
 | 52| [Binit Ghimire](https://github.com/TheBinitGhimire) | United Technical College, Bharatpur-11, Chitwan | #DevSecNetSysServCloud |
-| 53 | [Nishant Sapkota](https://github.com/thenishantsapkota)| Madan Bhandari Memorial Academy,Manglabare Morang | Python,HTML,CSS,C++
+| 53| [Arpan Kumar Pariyar](https://github.com/kooolarpan) | Nepal Polytechnic Institute (NPI), Bharatpur, Chitwan | HTML, CSS, JS, Node.js, PHP |
+|54| [Ravi](https://github.com/ravigautamcs) | Netaji subhash University of technology | python, css, HTML, java
+| 55 | [Nishant Sapkota](https://github.com/thenishantsapkota)| Madan Bhandari Memorial Academy,Manglabare Morang | Python,HTML,CSS,C++
+
