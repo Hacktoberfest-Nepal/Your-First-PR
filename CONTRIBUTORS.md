@@ -56,3 +56,4 @@
 | 52| [Binit Ghimire](https://github.com/TheBinitGhimire) | United Technical College, Bharatpur-11, Chitwan | #DevSecNetSysServCloud |
 | 53| [Arpan Kumar Pariyar](https://github.com/kooolarpan) | Nepal Polytechnic Institute (NPI), Bharatpur, Chitwan | HTML, CSS, JS, Node.js, PHP |
 |54| [Ravi](https://github.com/ravigautamcs) | Netaji subhash University of technology | python, css, HTML, java
+|55| [Harpreet Madaan] (https://github.com/Harpreet199) | B.S.Anangpuria Institute of Technology & Management | HTML, CSS, JS, Bootstrap, Git, Github, Java, PHP, Python, C, C++
