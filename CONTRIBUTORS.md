@@ -76,4 +76,4 @@
 | 49      | [Siddhant Gupta] (https://github.com/siddhantparadox)          | SSGMCE                                                              | React, HTML, CSS, Bootstrap, JS                                    |
 | 50      | [Meghana Kolluri](https://github.com/meghanakolluri)           | GVPCE                                                               | C/C++,Python,Java,HTML,CSS,JavaScript,SQL,DS and Algo              |
 | 51      | [Ananta Mishra] (https://github.com/anantamishra)              | Indreni College, Bharatpur, Chitwan                                 | HTML, CSS, JS, Flutter, React                                      |
-| 52      | [Nirjal Paudel] (https://github.com/n1rjal)                    | Madan Bhandari Memorial College                                     | HTML5, Bootstrap, MERN, Django                                     |
+| 52      | [Nirjal Paudel](https://github.com/n1rjal)                     | Madan Bhandari Memorial College                                     | HTML5, Bootstrap, MERN, Django                                     |
