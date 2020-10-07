@@ -57,4 +57,5 @@
 | 53| [Arpan Kumar Pariyar](https://github.com/kooolarpan) | Nepal Polytechnic Institute (NPI), Bharatpur, Chitwan | HTML, CSS, JS, Node.js, PHP |
 |54| [Ravi](https://github.com/ravigautamcs) | Netaji subhash University of technology | python, css, HTML, java
 | 55 | [Nishant Sapkota](https://github.com/thenishantsapkota)| Madan Bhandari Memorial Academy,Manglabare Morang | Python,HTML,CSS,C++
+| 56 | [Ruzan Tandukar](https://github.com/ruzzan)| Samriddhi College | Python, HTML, CSS, JS, Django, C
 
