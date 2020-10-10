@@ -58,3 +58,4 @@
 |54| [Ravi](https://github.com/ravigautamcs) | Netaji subhash University of technology | python, css, HTML, java
 | 55 | [Nishant Sapkota](https://github.com/thenishantsapkota)| Madan Bhandari Memorial Academy,Manglabare Morang | Python,HTML,CSS,C++
 | 56 | [Prabesh Sapkota](https://github.com/Prabesh01)| The Prabesh Sapkota, Kushma, Parbat | CyberSec
+| 57 | [Pratham Byanjankar](https://github.com/overlorddamygod/)| Academia International College | Python,Javascript,C++
