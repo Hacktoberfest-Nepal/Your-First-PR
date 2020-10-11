@@ -42,7 +42,7 @@
 | 38      | [Shubhika Shubhavee](https://github.com/shubhavee)             | Manipal Institute of Technology                                     | HTML/CSS, Javascript, React JS, Django, Python                     |
 | 39      | [naufal](https://github.com/fall-dawam)                        |                                                                     | HTML, CSS, Java, Reactjs, Laravel, Vue                             |
 | 40      | [Shivam Birla](https://github.com/Shivam4747)                  | GGSIPU                                                              | Python, CyberSec, Bash                                             |
-| 41      | [Pranay Kothari] (https://github.com/Heisenberg-737)           | Netaji Subhas University of Technology                              | Python, HTML,CSS, JavaScript, Flask, Django, React                 |
+| 41      | [Pranay Kothari](https://github.com/Heisenberg-737)           | Netaji Subhas University of Technology                              | Python, HTML,CSS, JavaScript, Flask, Django, React                 |
 | 42      | [Renato Ramos Nascimento](https://github.com/renato04)         | FATEC-SP /Brazil                                                    | C#, JS, Python,                                                    |
 | 43      | [Kunal Sah](https://github.com/Kunalsah29/open)                | Mahendra Morang Aadarsh Multiple Campus                             | Html, css , Bootstrap                                              |
 | 44      | [Sachin Som](https://github.com/sachinsom93)                   | ACEIT jaipur                                                        | MERN, python, C++                                                  |
@@ -50,25 +50,17 @@
 | 46      | [Aayush Bhattarai](https://github.com/coder-Aayush)            | Xavier International College                                        | Flutter, Python                                                    |
 | 47      | [Aashish Bhandari] (https://github.com/awebisam)               | Ekta Academy Boarding School                                        | Python, HTML, CSS, JavaScript, Vue, Django, Flask                  |
 | 48      | [Sarthak Agrawal] (https://github.com/sarthakagrawal927)       | MIT, Manipal                                                        | Python, HTML,CSS, JavaScript, Flask, NodeJS, React                 |
-<<<<<<< HEAD
 | 49      | [Siddhant Gupta] (https://github.com/siddhantparadox)          | SSGMCE                                                              | React, HTML, CSS, Bootstrap, JS
-| 50	  |  [Meghana Kolluri](https://github.com/meghanakolluri) | GVPCE | C/C++,Python,Java,HTML,CSS,JavaScript,SQL,DS and Algo
+| 50	    |  [Meghana Kolluri](https://github.com/meghanakolluri) | GVPCE | C/C++,Python,Java,HTML,CSS,JavaScript,SQL,DS and Algo
 | 51      | [Ananta Mishra] (https://github.com/anantamishra)           | Indreni College, Bharatpur, Chitwan                              | HTML, CSS, JS, Flutter, React  
-| 52| [Binit Ghimire](https://github.com/TheBinitGhimire) | United Technical College, Bharatpur-11, Chitwan | #DevSecNetSysServCloud |
-| 53| [Arpan Kumar Pariyar](https://github.com/kooolarpan) | Nepal Polytechnic Institute (NPI), Bharatpur, Chitwan | HTML, CSS, JS, Node.js, PHP |
-|54| [Ravi](https://github.com/ravigautamcs) | Netaji subhash University of technology | python, css, HTML, java
-| 55 | [Nishant Sapkota](https://github.com/thenishantsapkota)| Madan Bhandari Memorial Academy,Manglabare Morang | Python,HTML,CSS,C++
-| 
-=======
-| 49      | [Siddhant Gupta] (https://github.com/siddhantparadox)          | SSGMCE                                                              | React, HTML, CSS, Bootstrap, JS                                    |
-| 50      | [Meghana Kolluri](https://github.com/meghanakolluri)           | GVPCE                                                               | C/C++,Python,Java,HTML,CSS,JavaScript,SQL,DS and Algo              |
-| 51      | [Ananta Mishra] (https://github.com/anantamishra)              | Indreni College, Bharatpur, Chitwan                                 | HTML, CSS, JS, Flutter, React                                      |
-| 52      | [Binit Ghimire](https://github.com/TheBinitGhimire)            | United Technical College, Bharatpur-11, Chitwan                     | #DevSecNetSysServCloud                                             |
-| 53      | [Arpan Kumar Pariyar](https://github.com/kooolarpan)           | Nepal Polytechnic Institute (NPI), Bharatpur, Chitwan               | HTML, CSS, JS, Node.js, PHP                                        |
-| 54      | [Ravi](https://github.com/ravigautamcs)                        | Netaji subhash University of technology                             | python, css, HTML, java                                            |
-| 55      | [Nishant Sapkota](https://github.com/thenishantsapkota)        | Madan Bhandari Memorial Academy,Manglabare Morang                   | Python,HTML,CSS,C++                                                |
-| 56      | [Prabesh Sapkota](https://github.com/Prabesh01)                | The Prabesh Sapkota, Kushma, Parbat                                 | CyberSec                                                           |
-| 57      | [Nirjal Paudel](https://github.com/n1rjal)                     | Madan Bhandari Memorial College                                     | MERN, bootstrap, django     
-59| [Dipak Gautam](https://github.com/dpakgtm07)| KCMIT, Mid-Baneshwor, Kathmandu | Python, HTML, CSS, C++, C, Java, JavaScript, PHP
-                                       |
->>>>>>> 42336d1fdf562c5a843ee8939949c7fd2672a48a
+| 52      | [Binit Ghimire](https://github.com/TheBinitGhimire) | United Technical College, Bharatpur-11, Chitwan | #DevSecNetSysServCloud |
+| 53      | [Arpan Kumar Pariyar](https://github.com/kooolarpan) | Nepal Polytechnic Institute (NPI), Bharatpur, Chitwan | HTML, CSS, JS, Node.js, PHP |
+|54       | [Ravi](https://github.com/ravigautamcs) | Netaji subhash University of technology | python, css, HTML, java
+|55       | [Nishant Sapkota](https://github.com/thenishantsapkota)| Madan Bhandari Memorial Academy,Manglabare Morang | Python,HTML,CSS,C++
+|56       | [Prabesh Sapkota](https://github.com/Prabesh01)                | The Prabesh Sapkota, Kushma, Parbat                                 | CyberSec                                                           |
+|57       | [Nirjal Paudel](https://github.com/n1rjal)                     | Madan Bhandari Memorial College                                     | MERN, bootstrap, django     
+58        | [Dipak Gautam](https://github.com/dpakgtm07)| KCMIT, Mid-Baneshwor, Kathmandu | Python, HTML, CSS, C++, C, Java, JavaScript, PHP
+| 59      | [Nirjal Paudel](https://github.com/n1rjal)                     | Madan Bhandari Memorial College                                     | MERN, bootstrap, django                                            |
+| 60      | [Huandrey Pontes](https://github.com/huandrey)                 | Universidade Federal de Campina Grande | Python, Django, JavaScript, PostgreSQL
+| 61      | [Maniraj Gautam](https://github.com/lucifermaniraj)| Butwal Kalika Campus,Butwal, Rupandehi | Python,HTML,CSS,C++
+| 62      | [Ruzan Tandukar](https://github.com/ruzzan)| Samriddhi College | Python, HTML, CSS, JS, Django, C
