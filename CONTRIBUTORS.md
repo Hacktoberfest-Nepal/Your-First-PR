@@ -60,3 +60,4 @@
 | 56      | [Prabesh Sapkota](https://github.com/Prabesh01)                | The Prabesh Sapkota, Kushma, Parbat                                 | CyberSec                                                           |
 | 57      | [Nirjal Paudel](https://github.com/n1rjal)                     | Madan Bhandari Memorial College                                     | MERN, bootstrap, django                                            |
 | 58      | [Huandrey Pontes](https://github.com/huandrey)                 | Universidade Federal de Campina Grande | Python, Django, JavaScript, PostgreSQL
+| 59      | [Maniraj Gautam](https://github.com/lucifermaniraj)| Butwal Kalika Campus,Butwal, Rupandehi | Python,HTML,CSS,C++
