@@ -62,3 +62,5 @@
 | 58      | [Huandrey Pontes](https://github.com/huandrey)                 | Universidade Federal de Campina Grande | Python, Django, JavaScript, PostgreSQL
 | 59      | [Maniraj Gautam](https://github.com/lucifermaniraj)| Butwal Kalika Campus,Butwal, Rupandehi | Python,HTML,CSS,C++
 | 60      | [Ruzan Tandukar](https://github.com/ruzzan)| Samriddhi College | Python, HTML, CSS, JS, Django, C
+| 61 | [Pratham Byanjankar](https://github.com/overlorddamygod/)| Academia International College | Python,Javascript,C++
+
