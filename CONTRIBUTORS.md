@@ -59,3 +59,4 @@
 | 55      | [Nishant Sapkota](https://github.com/thenishantsapkota)        | Madan Bhandari Memorial Academy,Manglabare Morang                   | Python,HTML,CSS,C++                                                |
 | 56      | [Prabesh Sapkota](https://github.com/Prabesh01)                | The Prabesh Sapkota, Kushma, Parbat                                 | CyberSec                                                           |
 | 57      | [Nirjal Paudel](https://github.com/n1rjal)                     | Madan Bhandari Memorial College                                     | MERN, bootstrap, django                                            |
+| 58      | [Neeraj Lamsal](https://github.com/Neeraj319)                  | NIST                                                                | Python, ML,django                                            |
