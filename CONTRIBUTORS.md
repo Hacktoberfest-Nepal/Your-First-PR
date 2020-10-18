@@ -63,3 +63,4 @@
 | 59      | [Maniraj Gautam](https://github.com/lucifermaniraj)| Butwal Kalika Campus,Butwal, Rupandehi | Python,HTML,CSS,C++
 | 60      | [Ruzan Tandukar](https://github.com/ruzzan)| Samriddhi College | Python, HTML, CSS, JS, Django, C
 | 61      | [Santosh Jaiswal](https://github.com/SantoshJ75)               | Patan Multiple Campus                                       | HTML5, CSS3, JS, PHP, MERN Stack
+| 62      | [Zinkuth](https://github.com/Zinkuth)| 127.0.0.1 | Python, Bash, HTML, CSS, Java, C
