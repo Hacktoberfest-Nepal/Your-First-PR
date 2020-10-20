@@ -67,3 +67,4 @@
 | 63       |[Shubham Nag] (https://github.com/shubhamnag14)              | Techno International Batanagar          |Python, HTML,CSS, JavaScript, Flask, Django  |
 | 64      | [Bhavana Padala](https://github.com/BhavanaPadala)                     | Gayatri Vidya Parishad College Of Engineering                                     | Python, HTML, CSS, Flask, Machine learning, game development 
 | 65 | [Rewan Gautam](https://github.com/gtmray) | IOE Thapathali Campus | Python, Data Science, ML, DL
+| 66 | [Debanjana] (https://github.com/debanjana2000)         | NSEC       | python, HTML, CSS, javascript, angular, bootstrap |
