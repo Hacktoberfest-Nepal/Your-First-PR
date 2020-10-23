@@ -70,3 +70,4 @@
 | 66      | [Harpreet Madaan] (https://github.com/Harpreet199) | B.S.Anangpuria Institute of Technology & Management | HTML, CSS, JS, Bootstrap, Git, Github, Java, PHP, Python, C, C++
 | 67      | [Dipak Gautam](https://github.com/dpakgtm07)| KCMIT, Mid-Baneshwor, Kathmandu | Python, HTML, CSS, C++, C, Java, JavaScript, PHP
 | 68      | [Rujan](https://github.com/shakyarujan)| Academia Internationl College | HTML, CSS, JS, MERN, Python
+| 69      | [Neeraj Lamsal](https://github.com/Neeraj319)                  | NIST                                                                | Python, ML,django                                            |
