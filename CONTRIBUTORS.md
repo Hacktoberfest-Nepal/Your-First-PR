@@ -64,6 +64,7 @@
 | 60      | [Ruzan Tandukar](https://github.com/ruzzan)| Samriddhi College | Python, HTML, CSS, JS, Django, C
 | 61      | [Santosh Jaiswal](https://github.com/SantoshJ75)               | Patan Multiple Campus                                       | HTML5, CSS3, JS, PHP, MERN Stack
 | 62      | [Zinkuth](https://github.com/Zinkuth)| 127.0.0.1 | Python, Bash, HTML, CSS, Java, C
-| 63       |[Shubham Nag] (https://github.com/shubhamnag14)              | Techno International Batanagar          |Python, HTML,CSS, JavaScript, Flask, Django  |
+| 63      |[Shubham Nag] (https://github.com/shubhamnag14)              | Techno International Batanagar          |Python, HTML,CSS, JavaScript, Flask, Django  |
 | 64      | [Bhavana Padala](https://github.com/BhavanaPadala)                     | Gayatri Vidya Parishad College Of Engineering                                     | Python, HTML, CSS, Flask, Machine learning, game development 
-| 65 | [Rewan Gautam](https://github.com/gtmray) | IOE Thapathali Campus | Python, Data Science, ML, DL
+| 65      | [Rewan Gautam](https://github.com/gtmray) | IOE Thapathali Campus | Python, Data Science, ML, DL
+|66       | [Harpreet Madaan] (https://github.com/Harpreet199) | B.S.Anangpuria Institute of Technology & Management | HTML, CSS, JS, Bootstrap, Git, Github, Java, PHP, Python, C, C++
