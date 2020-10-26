@@ -72,3 +72,4 @@
 | 68      | [Rujan](https://github.com/shakyarujan)| Academia Internationl College | HTML, CSS, JS, MERN, Python
 | 69      | [Neeraj Lamsal](https://github.com/Neeraj319)                  | NIST                                                                | Python, ML,django                                            |
 | 70      | [Renier Trenuela](https://github.com/throwexceptions)          | De La Salle University                                              | Python, PHP, Javascript, SQL, HTML                                 |
+| 71      | [Yash Ingle](https://github.com/yashingle)                  | National Institute of Technology, Calicut                                                                | Python, ML,django, RPA                                            |
