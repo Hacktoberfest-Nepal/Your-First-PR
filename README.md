@@ -28,7 +28,6 @@ This is a beginner-friendly repository made specifically for the [Hacktoberfest]
 - Click `Create Pull Request`
 
 #### Also get connected with the person of your interest by connectig with the social media hanlde attached on their github profile :)
-<br>
 
 ### Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃
 
