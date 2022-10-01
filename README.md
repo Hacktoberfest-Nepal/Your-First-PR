@@ -26,8 +26,11 @@ This is a beginner-friendly repository made specifically for the [Hacktoberfest]
 - Under menu item [`Pull requests`](https://github.com/coolbrg/Your-First-PR/pulls), click on `New Pull Request`
 - Provide a title and description
 - Click `Create Pull Request`
+  
+  Hola! You did it🥳
+  #### NOTE: It might take a while to merge the PR because of festivals so have patience till then keep contributing in other projects
 
-#### Also get connected with the person of your interest by connectig with the social media hanlde attached on their github profile :)
+#### <i>Also get connected with the person of your interest by connecting with the social media handle attached on their github profile :)</i>
 
 ### Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃
 
@@ -41,7 +44,6 @@ This is a beginner-friendly repository made specifically for the [Hacktoberfest]
 - [Sagarmatha Hacktoberfest Website](https://github.com/Hacktoberfest-Nepal/HacktoberfestNepal)
 - [Your-First-PR](https://github.com/Hacktoberfest-Nepal/Your-First-PR)
 
-#### Note: It might take a while to merge the PR because of festivals so have patience
 ## Code of Conduct
 
 > Usage of foul language, addition of irrelevant links to `CONTRIBUTORS.md` will lead to PR being tagged as spam`
@@ -50,7 +52,7 @@ This is a beginner-friendly repository made specifically for the [Hacktoberfest]
 
 <a href="https://hacktoberfest.digitalocean.com/profile" target="blank">https://hacktoberfest.digitalocean.com/profile</a>
 
-### Happy?? Star ⭐ this Repo. 🤩
+### Have you made your first PR?? Then Star ⭐ this Repo. 🤩
 
-> Initiate By Sagarmatha Hacktoberfest Team with ❤️
+> Initiated By Sagarmatha Hacktoberfest Team with ❤️
 > Open Source contributors &copy; 2022
