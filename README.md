@@ -19,8 +19,9 @@ This is a beginner-friendly repository made specifically for the [Hacktoberfest]
 - Open Pull Request between Oct 1 - Oct 31 🚀
 
 ## Some info about Sagarmatha Hacktoberfest 2022
-```
+
 Though Hacktoberfest event has already started from Oct 1 but the events that we have planned for you who have less idea about Open Source Contributions, Git/Github and more from oct 12-14 where we will host muliple events like:
+```
     - Introduction to Open Source
     - Career in Open Source
     - Git/Github Workshop and Hacktoberfest step by step guide
@@ -29,7 +30,7 @@ Though Hacktoberfest event has already started from Oct 1 but the events that we
     - Open Sourc Alternative
     - And Finally, Open Source Project Demonstration
 
-Also on Oct 15 we will host session for you guys to interact help to make your 4 PR's
+Also on Oct 15 we will host a session for you guys to interact help to make your 4 PR's and later on be availabe for support on our discord server
 ```
 Till then stay connected on our social media handles: <br>
 Facebook: https://www.facebook.com/sagarmathahacktoberfest <br>
