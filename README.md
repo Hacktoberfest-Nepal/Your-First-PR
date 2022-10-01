@@ -10,7 +10,7 @@
 
 This is a beginner-friendly repository made specifically for the [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and helps you get started with your first PR and takes you a step closer to earning your Hacktoberfest Swags 👕.
 
-🎯 In case you are an intermediate or advanced level programmer or developer, we have got you covered too!! Step to our <a href="https://github.com/Hacktoberfest-Nepal" target="blank"> repositories</a> and make contributions as per as your interests.
+🎯 In case you are an intermediate or advanced level programmer or developer, we have got you covered too!! Step to our <a href="https://github.com/Hacktoberfest-Nepal" target="blank"> repositories</a>[which will be live soon] and make contributions as per as your interests.
 
 ## Register in Sagarmatha Hacktoberfest 2022
 
@@ -18,10 +18,31 @@ This is a beginner-friendly repository made specifically for the [Hacktoberfest]
 - Register using GitHub :octocat:
 - Open Pull Request between Oct 1 - Oct 31 🚀
 
-## Creating a Pull Request
+## Some info about Sagarmatha Hacktoberfest 2022
+```
+Though Hacktoberfest event has already started from Oct 1 but the events that we have planned for you who have less idea about Open Source Contributions, Git/Github and more from oct 12-14 where we will host muliple events like:
+    - Introduction to Open Source
+    - Career in Open Source
+    - Git/Github Workshop and Hacktoberfest step by step guide
+    - Open Source Hardware
+    - Open Source Project Licensing
+    - Open Sourc Alternative
+    - And Finally, Open Source Project Demonstration
+
+Also on Oct 15 we will host session for you guys to interact help to make your 4 PR's
+```
+Till then stay connected on our social media handles: <br>
+Facebook: https://www.facebook.com/sagarmathahacktoberfest <br>
+Instagram: https://www.instagram.com/sagarmatha.hacktoberfest/ <br>
+LinkedIn: https://www.linkedin.com/company/sagarmatha-hacktoberfest/ <br>
+Twitter: https://twitter.com/SHacktoberfest/
+
+<b> Without further delay let's dive in to make your first PR</b>
+
+## Creating Your First Pull Request
 
 - Fork this repo 🍴
-- Add your name, GitHub profile link and technology you work on, on [CONTRIBUTORS.md](./CONTRIBUTORS.md) 🙋‍♀️ 🙋‍♂️ <br>
+- Add your name, GitHub profile link and  technology you work on, on [CONTRIBUTORS.md](./CONTRIBUTORS.md) 🙋‍♀️ 🙋‍♂️ <br>
 - Here is the [sample](./assets/example.png).
 - Under menu item [`Pull requests`](https://github.com/coolbrg/Your-First-PR/pulls), click on `New Pull Request`
 - Provide a title and description
