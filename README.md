@@ -1,20 +1,20 @@
 # Your First Pull Request
 
 <p align="center">
-    <img src="./assets/sagarmathahacktoberfest.png">
+    <img src="./assets/hacktoberfest_2022.png">
 </p>
 
 <p align="center">
     The goal of this project is to get started with Open Source and make your first <a href="https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests">Pull Request(PR)</a>.
 </p>
 
-This is a beginner-friendly repository made specifically for the [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and helps you get started with your first PR and takes you a step closer to earning your Hacktoberfest T-shirt 👕.
+This is a beginner-friendly repository made specifically for the [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and helps you get started with your first PR and takes you a step closer to earning your Hacktoberfest Swags 👕.
 
 🎯 In case you are an intermediate or advanced level programmer or developer, we have got you covered too!! Step to our <a href="https://github.com/Hacktoberfest-Nepal" target="blank"> repositories</a> and make contributions as per as your interests.
 
-## Register in Hacktoberfest Nepal 2020
+## Register in Sagarmatha Hacktoberfest 2022
 
-- Visit [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com) website 🎃 and our [Event](https://organize.mlh.io/participants/events/4462-hacktoberfest-nepal-meetup) to register.
+- Visit [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com) website 🎃 and our [Event](https://forms.gle/fLGVeeBYkJAQqRSNA) to register.
 - Register using GitHub :octocat:
 - Open Pull Request between Oct 1 - Oct 31 🚀
 
@@ -27,17 +27,22 @@ This is a beginner-friendly repository made specifically for the [Hacktoberfest]
 - Provide a title and description
 - Click `Create Pull Request`
 
+#### Also get connected with the person of your interest by connectig with the social media hanlde attached on their github profile :)
+<br>
+
 ### Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃
 
 ## Important Links to work for Hacktoberfest
 
-- [Hacktoberfest_backend](https://github.com/Hacktoberfest-Nepal/Hacktoberfest_backend)
+<!-- - [Hacktoberfest_backend](https://github.com/Hacktoberfest-Nepal/Hacktoberfest_backend)
 - [Hacktoberfest_CTF](https://github.com/Hacktoberfest-Nepal/Hacktoberfest_CTF)
 - [Hacktoberfest_datascience](https://github.com/Hacktoberfest-Nepal/Hacktoberfest_datascience)
-- [Hacktoberfest_frontend](https://github.com/Hacktoberfest-Nepal/Hacktoberfest_frontend)
-- [HacktoberfestNepal](https://github.com/Hacktoberfest-Nepal/HacktoberfestNepal)
+- [Hacktoberfest_frontend](https://github.com/Hacktoberfest-Nepal/Hacktoberfest_frontend) -->
+-  We are woking on to add more so stay tuned
+- [Sagarmatha Hacktoberfest Website](https://github.com/Hacktoberfest-Nepal/HacktoberfestNepal)
 - [Your-First-PR](https://github.com/Hacktoberfest-Nepal/Your-First-PR)
 
+#### Note: It might take a while to merge the PR because of festivals so have patience
 ## Code of Conduct
 
 > Usage of foul language, addition of irrelevant links to `CONTRIBUTORS.md` will lead to PR being tagged as spam`
@@ -48,5 +53,5 @@ This is a beginner-friendly repository made specifically for the [Hacktoberfest]
 
 ### Happy?? Star ⭐ this Repo. 🤩
 
-> Initiate By Aju with ❤️
-> Open Source contributors &copy; 2020
+> Initiate By Sagarmatha Hacktoberfest Team with ❤️
+> Open Source contributors &copy; 2022
