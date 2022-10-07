@@ -74,3 +74,4 @@
 | 70      | [Renier Trenuela](https://github.com/throwexceptions)          | De La Salle University                                              | Python, PHP, Javascript, SQL, HTML                                 |
 | 71      | [Shivaraj Loni](https://github.com/shivarajloni)               | M.S Ramaiah university                                              | Javascript, MYSQL, C++, HTML, CSS, ReactJS                         |
 | 72      | [Yash Ingle](https://github.com/yashingle)                     | National Institute of Technology, Calicut                           | Python, ML,django, RPA                                             |
+| 73      | [Islam Ansari](https://github.com/Islam-ansari)                | National Institute of Technology, Hamirpur                          | HTML, CSS, JavaScript, Bootstrap, C#                       |
