@@ -75,3 +75,4 @@
 | 71      | [Shivaraj Loni](https://github.com/shivarajloni)               | M.S Ramaiah university                                              | Javascript, MYSQL, C++, HTML, CSS, ReactJS                         |
 | 72      | [Yash Ingle](https://github.com/yashingle)                     | National Institute of Technology, Calicut                           | Python, ML,django, RPA                                             |
 | 73      | [Bikalpa Dhakal](https://github.com/theoctober19th)            | Nepal College of Information Technology                             | Python, Django, Flask, MongoDB, AWS                                             |
+| 74      | [Regish Shrestha](https://github.com/RegishShrestha)           | Kathmandu Bernhardt Collage                                         | Python, Django, Flask, React                                                       |
