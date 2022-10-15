@@ -78,4 +78,5 @@
 | 74      | [Gaurav Shah](https://www.github.com/shahGnp)                  | Sagarmatha Engineering College                                      | Flutter, C, JavaScript, ML                                         |
 | 75      | [Anisha Nayaju](https://github.com/anishaxtha)                 | Padmakanya Multiple campus College                                  | Python, Django, JavaScript, HTML, CSS ,C,C++                       | 
 | 76      | [Regish Shrestha](https://github.com/RegishShrestha)           | Kathmandu Bernhardt Collage                                         | Python, Django, Flask, React                                       |
-| 77      | [Sarthak Paneru](https://github.com/SarthakPaneru)             | Nepal College of Information Technology, Lalitpur                   | Python, Django, Flask, Java, SpringBoot, SQL                       |                        |
+| 77      | [Sarthak Paneru](https://github.com/SarthakPaneru)             | Nepal College of Information Technology, Lalitpur                   | Python, Django, Flask, Java, SpringBoot, SQL                       |
+| 78      | [Sunil Shrestha](https://github.com/Koder-Sunil)               | National Institute of Technology, Banepa                            | HTML, CSS, JS, C/C++, Java                                         |
