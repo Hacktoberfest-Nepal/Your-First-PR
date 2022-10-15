@@ -77,4 +77,4 @@
 | 73      | [Bikalpa Dhakal](https://github.com/theoctober19th)            | Nepal College of Information Technology                             | Python, Django, Flask, MongoDB, AWS                                             |
 | 74      | [Gaurav Shah](https://www.github.com/shahGnp)                  | Sagarmatha Engineering College                                      | Flutter, C, JavaScript, ML                                         |
 | 75     | [Anisha Nayaju](https://github.com/anishaxtha)            | Padmakanya Multiple campus College                         | Python, Django, JavaScript, HTML, CSS ,C,C++                     
-
+| 76     | [Regish Shrestha](https://github.com/RegishShrestha)           | Kathmandu Bernhardt Collage                                         | Python, Django, Flask, React                                                       |
