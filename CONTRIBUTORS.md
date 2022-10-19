@@ -81,3 +81,4 @@
 | 77      | [Sarthak Paneru](https://github.com/SarthakPaneru)             | Nepal College of Information Technology, Lalitpur                   | Python, Django, Flask, Java, SpringBoot, SQL                       |
 | 78      | [Sunil Shrestha](https://github.com/Koder-Sunil)               | National Institute of Technology, Banepa                            | HTML, CSS, JS, C/C++, Java                                         |
 | 79      | [Manish Poudel](https://github.com/ManishPoudel)               | Nepal College of Information Technology                             | C, C++, Python, HTML, CSS                                          |
+| 80      | [Shashwat Poudel](https://github.com/shashwat-pd)               | Amrit Science Campus,                                             | 69th fork                                          |
